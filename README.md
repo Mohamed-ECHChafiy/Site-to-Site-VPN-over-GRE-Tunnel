@@ -1,4 +1,4 @@
-# Site-to-Site-VPN-over-GRE-Tunnel
+# Site to Site VPN over GRE Tunnel
 
 ## Architecture du Réseau
 Ce projet présente la mise en œuvre d'une architecture réseau sécurisée reliant deux sites distants (R1 et R2) à travers un réseau public (ISP). L'objectif est de permettre une communication fluide et sécurisée entre les réseaux locaux (LAN) en utilisant un tunnel GRE encapsulé dans un profil IPsec.
