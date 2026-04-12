@@ -87,16 +87,17 @@ Le tunnel chiffre le trafic GRE à l'aide d'IPsec (IKEv1 + ESP-AES + SHA-HMAC), 
 
 - PC1
   
-  <img width="475" height="283" alt="pc1" src="https://github.com/user-attachments/assets/8819711a-72ff-4431-92c9-558915cdb2b3" />
+ <img width="475" height="283" alt="pc1" src="https://github.com/user-attachments/assets/9c876564-69bb-4f12-8207-d9b9fe7b3336" />
 
 - PC2
   
-  <img width="445" height="166" alt="pc2" src="https://github.com/user-attachments/assets/6d9a9471-dc1d-452d-b057-03a4dcbf3d9b" />
+ <img width="445" height="166" alt="pc2" src="https://github.com/user-attachments/assets/506d7e76-b04a-4a90-b913-a4af234d3d76" />
+
 ---
 ### Traffic Encryption Analysis (Wireshark)
  Capture Wireshark montrant le flux de données entre les adresses publiques (33.33.33.2 et 44.44.44.2). On observe l'utilisation du protocole ESP, ce qui        confirme que le tunnel IPsec encapsule et chiffre tout le trafic (ICMP, Routage, etc.). Le contenu original des paquets est invisible pour l'ISP.
 
-   <img width="1273" height="501" alt="4" src="https://github.com/user-attachments/assets/3feb2d4f-b608-40e0-8ce7-6c2c1d96fa7e" />
+  <img width="1273" height="501" alt="4" src="https://github.com/user-attachments/assets/462a58b8-086e-4ea0-93d4-c112d7e435f6" />
 
 ---
 
