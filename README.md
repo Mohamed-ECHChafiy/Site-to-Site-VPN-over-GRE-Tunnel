@@ -103,6 +103,9 @@ Le tunnel chiffre le trafic GRE à l'aide d'IPsec (IKEv1 + ESP-AES + SHA-HMAC), 
 
 ## 👨‍💻 Auteur
 
-> Projet réalisé dans le cadre d'un laboratoire pratique en sécurité réseau, illustrant la mise en place d'un VPN site-à-site GRE over IPsec sur des routeurs Cisco.
+**Mohamed ECH-chafiy**
+- Étudiant en Infrastructure Digitale — Option Systèmes & Réseaux  
+- OFPPT, Arrahma, Casablanca, Maroc  
+- Linkedin : www.linkedin.com/in/mohamed-ech-chafiy
 
 ---
