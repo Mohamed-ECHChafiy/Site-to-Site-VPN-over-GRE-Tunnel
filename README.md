@@ -70,13 +70,17 @@ Le tunnel chiffre le trafic GRE à l'aide d'IPsec (IKEv1 + ESP-AES + SHA-HMAC), 
 - R1
   
 <img width="375" height="153" alt="1" src="https://github.com/user-attachments/assets/4c0bf01b-b557-4009-b66a-0219aa415700" />
+
 <img width="436" height="110" alt="3" src="https://github.com/user-attachments/assets/c3c4c4a1-eb25-4ab0-a259-b1ca636a5be0" />
+
 <img width="500" height="348" alt="4" src="https://github.com/user-attachments/assets/ada7bb4b-5b18-4a65-9329-3f3aa13cc598" />
 
 ---
 - R2
 <img width="371" height="152" alt="1" src="https://github.com/user-attachments/assets/c73b2e9e-ec38-400c-9a0d-c3995524720a" />
+
 <img width="426" height="110" alt="3" src="https://github.com/user-attachments/assets/1d2f010d-c59a-4cff-862b-373f7a7b2788" />
+
 <img width="500" height="348" alt="4" src="https://github.com/user-attachments/assets/60d0fc9e-4b20-44dc-b413-d018b60df1af" />
 
 
